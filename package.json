@@ -1,0 +1,22 @@
+{
+  "name": "solidity-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shohil-kishore/solidity-boilerplate.git"
+  },
+  "author": "Shohil Kishore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shohil-kishore/solidity-boilerplate/issues"
+  },
+  "homepage": "https://github.com/shohil-kishore/solidity-boilerplate#readme",
+  "dependencies": {
+    "solc": "^0.5.3"
+  }
+}
